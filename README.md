@@ -13,11 +13,7 @@ Contact : (Hakeemolaq@gmail.com or Hakeemolaq@yahoo.com) | (Linkedln)(https://ww
 
 🔹 **[SIEM Use Cases](Projects/SIEM-Use-Cases/README.md)** – Custom detection rules & alerts for Splunk, ELK, and Microsoft Sentinel.  
 
-🔹 **[Threat Hunting](Projects/Threat-Hunting/README.md)** – Log analysis and anomaly detection in Windows/Linux environments.  
-
-🔹 **[Incident Response](Projects/Incident-Response/README.md)** – Real-world attack simulations and response procedures.  
-
-🔹 **[SOC Automation](Scripts/README.md)** – Python and Bash scripts to automate security monitoring tasks.  
+🔹 **[Threat Hunting](Projects/Threat-Hunting/README.md)** – Log analysis and anomaly detection in Windows/Linux environments. 
 
 
 
@@ -31,21 +27,21 @@ Contact : (Hakeemolaq@gmail.com or Hakeemolaq@yahoo.com) | (Linkedln)(https://ww
 
 ### **🔍 Threat Hunting & Log Analysis**  
 
-✅ Windows Event Logs, Sysmon, Linux Syslog  
+✅ Windows Event Logs, Sysmon, Linux Syslog.
 
 ✅ Firewall, IDS/IPS, and Endpoint Security Logs  
 
 ✅ MITRE ATT&CK & Cyber Kill Chain Mapping  
 
-
+    
 
 ### **📊 SIEM & Security Tools**  
 
-✅ Splunk (SIEM Queries, Dashboards, and Alerts)  
+✅ Waxuh (SIEM Queries, Dashboards, and Alerts)  
 
-✅ ELK Stack (Elasticsearch, Logstash, Kibana)  
+✅ SSH - To dete Bruteforce attacks
 
-✅ Microsoft Sentinel (KQL Queries & Playbooks)  
+✅ NMAP & Zenmap ( For Scanning Port and detecting opeming ports)  
 
 ✅ Wireshark & Zeek (Network Traffic Analysis)  
 
